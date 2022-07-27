@@ -2,38 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Cadastro.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Login.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Controle_Doacao.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Interesse.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Controle_Pessoa.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Pesquisa.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Privilegio.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Tipo_Estado_Avaliacao.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Visao/PainelInteressados.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/PessoaJuridica.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Doacao.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/PessoaFisica.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Avaliacao.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Sistema_Email.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Inicializa_Catalogo.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Pessoa.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Visao/JanelaSistema.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Tipo_Item.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Visao/JanelaCadastroDePessoa.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Visao/PainelDeFotos.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Controle_Administrador.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Catalogo_Usuarios.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/PessoaAdapter.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Controle_De_Imagens.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Controle_Interesse.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Controle/Sistema.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Item.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Visao/JanelaImagem.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Catalogo_Itens.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Usuario.java</file>
-            <file>file:/C:/Users/pablo/Desktop/TP1_Doacoes/src/Modelo/Manipula_Arquivo.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
